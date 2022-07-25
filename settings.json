@@ -1,0 +1,42 @@
+// vscode settings
+{
+    "editor.formatOnSave": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontFamily": "Cascadia Code PL",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Monokai",
+    "editor.suggestSelection": "first",
+    "cSpell.userWords": [
+        "Havanese",
+        "Rolename",
+        "SHRAVAN",
+        "angularjs",
+        "shetty"
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "prettier.requireConfig": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "debug.javascript.autoAttachFilter": "smart",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 2,
+    "editor.largeFileOptimizations": false,
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDelete": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
